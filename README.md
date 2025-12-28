@@ -70,6 +70,7 @@
 |2557. Hello World|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2557.%E2%80%85Hello%E2%80%85World/Hello%E2%80%85World.cc)|
 |2558. A＋B － 2|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2558.%E2%80%85A%EF%BC%8BB%E2%80%85%EF%BC%8D%E2%80%852/README.md)|
 |2562. 최댓값|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2562.%E2%80%85%EC%B5%9C%EB%8C%93%EA%B0%92/%EC%B5%9C%EB%8C%93%EA%B0%92.cc)|
+|2577. 숫자의 개수|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2577.%E2%80%85%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98/%EC%88%AB%EC%9E%90%EC%9D%98%E2%80%85%EA%B0%9C%EC%88%98.cc)|
 |2588. 곱셈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2588.%E2%80%85%EA%B3%B1%EC%85%88/README.md)|
 |26906. Vikingahackare|[링크](./%EB%B0%B1%EC%A4%80/Bronze/26906.%E2%80%85Vikingahackare/README.md)|
 |2738. 행렬 덧셈|[링크](./%EB%B0%B1%EC%A4%80/Bronze/2738.%E2%80%85%ED%96%89%EB%A0%AC%E2%80%85%EB%8D%A7%EC%85%88/README.md)|
