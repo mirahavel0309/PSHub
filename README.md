@@ -99,6 +99,7 @@
 |31403. $A ＋ B － C$|[링크](./%EB%B0%B1%EC%A4%80/Bronze/31403.%E2%80%85%24A%E2%80%85%EF%BC%8B%E2%80%85B%E2%80%85%EF%BC%8D%E2%80%85C%24/%24A%E2%80%85%EF%BC%8B%E2%80%85B%E2%80%85%EF%BC%8D%E2%80%85C%24.cc)|
 |31429. SUAPC 2023 Summer|[링크](./%EB%B0%B1%EC%A4%80/Bronze/31429.%E2%80%85SUAPC%E2%80%852023%E2%80%85Summer/SUAPC%E2%80%852023%E2%80%85Summer.cc)|
 |31450. Everyone is a winner|[링크](./%EB%B0%B1%EC%A4%80/Bronze/31450.%E2%80%85Everyone%E2%80%85is%E2%80%85a%E2%80%85winner/Everyone%E2%80%85is%E2%80%85a%E2%80%85winner.cc)|
+|32498. Call for Problems|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32498.%E2%80%85Call%E2%80%85for%E2%80%85Problems/Call%E2%80%85for%E2%80%85Problems.cc)|
 |32951. AI 선도대학|[링크](./%EB%B0%B1%EC%A4%80/Bronze/32951.%E2%80%85AI%E2%80%85%EC%84%A0%EB%8F%84%EB%8C%80%ED%95%99/README.md)|
 |3733. Shares|[링크](./%EB%B0%B1%EC%A4%80/Bronze/3733.%E2%80%85Shares/Shares.cc)|
 |4101. 크냐？|[링크](./%EB%B0%B1%EC%A4%80/Bronze/4101.%E2%80%85%ED%81%AC%EB%83%90%EF%BC%9F/%ED%81%AC%EB%83%90%EF%BC%9F.cc)|
